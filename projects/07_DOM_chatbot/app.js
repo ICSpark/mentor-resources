@@ -8,6 +8,6 @@ button.addEventListener("click", function(){
   } else if (input.value === "Good") {
     output.innerHTML = "Great! Bye.";
   } else {
-    output.innerHTML = "Sorry, I'm sleepy.";
+    output.innerHTML = "Sorry, I don't understand.";
   }
 })
