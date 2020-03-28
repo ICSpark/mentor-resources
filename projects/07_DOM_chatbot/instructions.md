@@ -61,6 +61,9 @@ Use what you have learned (If statements, functions, DOM...etc.) to create a sim
   * Set the ```width``` to ```calc(100vw)``` to make the container fit the full width of your screen
   * Set the ```height``` to ```calc(100vh)``` to make the container fit the full height of your screen
   * Set the ```background-color``` to ```green``` (or a color of your choice!)
+  * Activate flexbox! HINT: Use ```display```...
+  * Use flexbox to change the direction of items to column
+  * Use flexbox to center items horizontally and vertically
 3. Target the ```input``` with an id of "input"
   * Set the ```width``` to ```500px```
   * Set the ```height``` to ```50px```
